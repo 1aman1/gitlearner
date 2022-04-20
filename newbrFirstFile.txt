@@ -1,3 +1,6 @@
 newbranch
 
 first commit
+
+second change
+
