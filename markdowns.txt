@@ -1,0 +1,17 @@
+markdown
+
+:fire: 
+:hourglass:
+:bulb:
+
+:chart_with_upwards_trend:
+:pushpin:
+
+
+:clock7: in progress
+
+:new: improvements
+
+:memo: requirements
+
+:pushpin: in future
